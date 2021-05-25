@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Food & Bev",
+      "image": "http://placekitten.com/200/300",
+      "description": "Client-side APIs",
+      "github": "https://rickrocero.github.io/food-bev/",
+      "website": "https://github.com/rickrocero/food-bev"
+    },
+    {
+      "id": 2,
+      "title": "Pantrimonium",
+      "image": "http://placekitten.com/200/300",
+      "description": "Node/Express/Handlebars",
+      "github": "https://pantrimonium.herokuapp.com/",
+      "website": "https://github.com/rickrocero/Pantrimonium"
+    }
+  ]
+  
