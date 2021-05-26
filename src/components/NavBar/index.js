@@ -1,16 +1,13 @@
 import React from 'react';
-import {
-    BrowserRouter as Router,
-    Link
-} from "react-router-dom";  
+import { Link } from "react-router-dom";  
 import "./style.css";
 
 export default function NavBar() {
     return (
         <ul class="nav justify-content-center">
             <li className="nav-item">
-                <Link to="/works" className="nav-link">
-                    Works
+                <Link to="/projects" className="nav-link">
+                    Projects
                 </Link>
             </li>
             <li className="nav-item">

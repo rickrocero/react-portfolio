@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import NavBar from './components/NavBar/index';
-import Works from './components/Works';
+import Project from './components/Projects/index';
 import About from './components/About/index';
 import Resume from './components/Resume';
 import Footer from './components/Footer/index';
@@ -12,8 +12,8 @@ function App () {
         <div>
           <NavBar />
           <Switch>
-            <Route exact path="/works">
-              <Works />
+            <Route exact path="/projects">
+              <Project />
             </Route>
             <Route exact path="/about">
               <About />
