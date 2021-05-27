@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "title": "Food & Bev",
+      "title": "Food & Bev!",
       "image_link": "http://placekitten.com/200/300",
       "description": "Client-side APIs",
       "github": "https://rickrocero.github.io/food-bev/",
@@ -14,6 +14,37 @@
       "description": "Node/Express/Handlebars",
       "github": "https://pantrimonium.herokuapp.com/",
       "website": "https://github.com/rickrocero/Pantrimonium"
+    },
+    {
+      "id": 3,
+      "title": "User Directory",
+      "image_link": "http://placekitten.com/200/300",
+      "description": "React",
+      "github": "https://github.com/rickrocero/user-directory",
+      "website": "https://rickrocero.github.io/user-directory/"
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Backend",
+      "image_link": "http://placekitten.com/200/300",
+      "description": "Express/MySQL/Sequelize",
+      "github": "https://github.com/rickrocero/user-directory"
+    },
+    {
+      "id": 5,
+      "title": "Workout Tracker",
+      "image_link": "http://placekitten.com/200/300",
+      "description": "Node/MongoDB/Express",
+      "github": "https://github.com/rickrocero/workout-tracker",
+      "website": "https://ricks-roccin-tracker.herokuapp.com/"
+    },
+    {
+      "id": 6,
+      "title": "Weather Dashboard",
+      "image_link": "http://placekitten.com/200/300",
+      "description": "HTML/CSS/JavaScript/Web API",
+      "github": "https://github.com/rickrocero/weather-dashboard",
+      "website": "https://rickrocero.github.io/weather-dashboard/"
     }
 ]
   

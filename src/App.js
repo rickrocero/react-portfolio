@@ -5,6 +5,8 @@ import Project from './components/Projects/index';
 import About from './components/About/index';
 import Resume from './components/Resume';
 import Footer from './components/Footer/index';
+import ProjectCard from './components/ProjectCard';
+import projects from './projects.json';
 
 function App () {
     return (
